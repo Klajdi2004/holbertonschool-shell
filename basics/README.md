@@ -1,4 +1,4 @@
- ##Here are the scripts I've created so far"##
+ ##Here are the scripts I've created so far##
 
 
 0. Where am I? - A script that prints the absoulte path name of the current working directory 
